@@ -102,3 +102,12 @@ th{
   position: relative;
   right: 13em;
 }
+.apple{
+  width: 30vw;
+  height: 20vh;
+}
+.card{
+  border: 0.1rem solid black;
+  width: 35rem;
+  height: 20rem;
+}
